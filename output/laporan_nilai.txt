@@ -1,0 +1,28 @@
+==================================================
+LAPORAN REKAP NILAI MATEMATIKA SISWA
+==================================================
+Jumlah siswa : 10
+KKM          : 75.0
+Rata-rata    : 78.00
+Nilai tertinggi : 95.00
+Nilai terendah  : 60.00
+
+DAFTAR NILAI SISWA
+--------------------------------------------------
+Andi | Nilai: 80.00 | Status: Tuntas
+Budi | Nilai: 70.00 | Status: Belum Tuntas
+Citra | Nilai: 90.00 | Status: Tuntas
+Dinda | Nilai: 85.00 | Status: Tuntas
+Eka | Nilai: 65.00 | Status: Belum Tuntas
+Fajar | Nilai: 75.00 | Status: Tuntas
+Gina | Nilai: 95.00 | Status: Tuntas
+Hani | Nilai: 60.00 | Status: Belum Tuntas
+Indra | Nilai: 88.00 | Status: Tuntas
+Joko | Nilai: 72.00 | Status: Belum Tuntas
+
+REKAP KETUNTASAN
+--------------------------------------------------
+Jumlah siswa tuntas        : 6
+Jumlah siswa belum tuntas  : 4
+Persentase ketuntasan      : 60.00%
+==================================================
